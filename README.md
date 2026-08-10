@@ -51,26 +51,20 @@ Student:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mavilaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=86400" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=Mavilaa&theme=dark&hide_border=false&cache_seconds=86400" alt="GitHub Streak" height="165"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMavilaa&color=2e2e5e&labelColor=1a1a2e" alt="Public Repos"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMavilaa&color=2e2e5e&labelColor=1a1a2e" alt="Followers"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mavilaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=86400" alt="Top Langs" />
+  <img src="https://img.shields.io/github/last-commit/Mavilaa/C_Learning?style=for-the-badge&label=Last%20Commit&color=2e2e5e&labelColor=1a1a2e" alt="Last Commit"/>
 </p>
 
 ---
 
 ## 📌 Featured Repositories
 
-<p align="center">
-  <a href="https://github.com/Mavilaa/C_Learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mavilaa&repo=C_Learning&theme=dark&cache_seconds=86400" alt="C_Learning"/>
-  </a>
-  <a href="https://github.com/Mavilaa/Lab_Aeds2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mavilaa&repo=Lab_Aeds2&theme=dark&cache_seconds=86400" alt="Lab_Aeds2"/>
-  </a>
-</p>
+- 🔹 **[C_Learning](https://github.com/Mavilaa/C_Learning)** — My projects and exercises in C.
+- 🔹 **[Lab_Aeds2](https://github.com/Mavilaa/Lab_Aeds2)** — Data Structures & Algorithms II lab activities.
 
 ---
 
@@ -78,11 +72,7 @@ Student:
 
 A full-stack IoT rehabilitation platform combining an Arduino sensor glove (Bluetooth), a C++ backend with JWT auth, MySQL with triggers-based ranking, and a React frontend.
 
-<p align="center">
-  <a href="https://github.com/Mavilaa/Fisiogrip">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mavilaa&repo=Fisiogrip&theme=dark&cache_seconds=86400" alt="Fisiogrip"/>
-  </a>
-</p>
+🔗 **[View repository](https://github.com/Mavilaa/Fisiogrip)**
 
 ---
 
