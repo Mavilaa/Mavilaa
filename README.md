@@ -14,14 +14,13 @@
 
 ## 🧑‍🎓 About Me
 
-student:
-  name: "Gustavo Martins de Ávila"
-  university: "PUC Minas"
-  course: "Computer Science"
-  focus: ["C", "C++", "Software Engineering", "Java","Problem Solving"]
-  currently_learning: ["Data Structures & Algorithms", "Artificial Intelligence", "OOP"]
-  motto: "Turning curiosity into code, one project at a time."
-\`\`\`
+Student:
+  Name: "Gustavo Martins de Ávila"
+  University: "PUC Minas"
+  Course: "Computer Science"
+  Focus: ["C", "C++", "Software Engineering", "Java","Problem Solving"]
+  Currently_learning: ["Data Structures & Algorithms", "Artificial Intelligence", "OOP"]
+  Motto: "Turning curiosity into code, one project at a time."
 
 - 📚 Computer Science student at **PUC Minas**, passionate about building things from the ground up.
 - 🛠️ Currently sharpening my fundamentals in **C / C++**, low-level programming, and clean software design.
