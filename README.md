@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Gustavo Martins de Ávila</h1>
-<h3 align="center">🎓 Computer Science student at PUC Minas | Software Development & Problem Solving</h3>
+<h1 align="center"> Hi, I'm Gustavo Martins de Ávila</h1>
+<h3 align="center"> Computer Science student at PUC Minas | Software Development & Problem Solving</h3>
 <p align="center">
   <a href="https://github.com/Mavilaa" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-1a1a2e?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="GitHub"/>
@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍🎓 About Me
+## About Me
 
 Student:
   -Name: "Gustavo Martins de Ávila"
@@ -25,10 +25,10 @@ Student:
   
   -Motto: "Turning curiosity into code, one project at a time."
 
-- 📚 Computer Science student at **PUC Minas**, passionate about building things from the ground up.
-- 🛠️ Currently sharpening my fundamentals in **C / C++**, low-level programming, and clean software design.
-- 🌱 Actively studying **Data Structures & Algorithms**, **AI**, and **Software Engineering** practices.
-- 🤝 Open to academic collaborations, study groups, and small open-source contributions.
+-  Computer Science student at **PUC Minas**, passionate about building things from the ground up.
+-  Currently sharpening my fundamentals in **C / C++**, low-level programming, and clean software design.
+-  Actively studying **Data Structures & Algorithms**, **AI**, and **Software Engineering** practices.
+-  Open to academic collaborations, study groups, and small open-source contributions.
 
 ---
 
