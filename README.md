@@ -14,12 +14,11 @@
 
 ## 🧑‍🎓 About Me
 
-\`\`\`yaml
 student:
   name: "Gustavo Martins de Ávila"
   university: "PUC Minas"
   course: "Computer Science"
-  focus: ["C", "C++", "Software Engineering", "Problem Solving"]
+  focus: ["C", "C++", "Software Engineering", "Java","Problem Solving"]
   currently_learning: ["Data Structures & Algorithms", "Artificial Intelligence", "OOP"]
   motto: "Turning curiosity into code, one project at a time."
 \`\`\`
