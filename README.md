@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hi, I'm Gustavo Martins de Ávila</h1>
-
 <h3 align="center">🎓 Computer Science student at PUC Minas | Software Development & Problem Solving</h3>
-
 <p align="center">
   <a href="https://github.com/Mavilaa" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-1a1a2e?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="GitHub"/>
@@ -53,12 +51,12 @@ Student:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mavilaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=Mavilaa&theme=dark&hide_border=false" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mavilaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=86400" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Mavilaa&theme=dark&hide_border=false&cache_seconds=86400" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mavilaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mavilaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=86400" alt="Top Langs" />
 </p>
 
 ---
@@ -67,10 +65,22 @@ Student:
 
 <p align="center">
   <a href="https://github.com/Mavilaa/C_Learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mavilaa&repo=C_Learning&theme=dark" alt="C_Learning"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mavilaa&repo=C_Learning&theme=dark&cache_seconds=86400" alt="C_Learning"/>
   </a>
   <a href="https://github.com/Mavilaa/Lab_Aeds2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mavilaa&repo=Lab_Aeds2&theme=dark" alt="Lab_Aeds2"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mavilaa&repo=Lab_Aeds2&theme=dark&cache_seconds=86400" alt="Lab_Aeds2"/>
+  </a>
+</p>
+
+---
+
+## 🦾 Featured Project — FisioGrasp
+
+A full-stack IoT rehabilitation platform combining an Arduino sensor glove (Bluetooth), a C++ backend with JWT auth, MySQL with triggers-based ranking, and a React frontend.
+
+<p align="center">
+  <a href="https://github.com/Mavilaa/Fisiogrip">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mavilaa&repo=Fisiogrip&theme=dark&cache_seconds=86400" alt="Fisiogrip"/>
   </a>
 </p>
 
